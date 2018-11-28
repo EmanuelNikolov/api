@@ -40,6 +40,7 @@ Wrappers:
 
 Third party wrappers:
 
+- [Symfony](https://github.com/EmanuelNikolov/IgdbApiBundle)
 - [Laravel](https://github.com/messerli90/igdb)
 - [Go](https://github.com/Henry-Sarabia/igdb)
 - [Ruby](https://github.com/darkstego/igdb_client) 
